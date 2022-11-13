@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# Me myself, and I
 
 ## Jobs, education, certifications
 
@@ -8,6 +8,7 @@ See [LinkedIn](www.linkedin.com/in/jonas-bk)
 - [GitHub](https://github.com/JonasBK)
 - [Twitter](https://twitter.com/Jonas_B_K)
 - [LinkedIn](www.linkedin.com/in/jonas-bk)
+- [Mastodon](https://infosec.exchange/@jonasbk)
 
 ## Public work
 
