@@ -10,7 +10,7 @@ See [LinkedIn](www.linkedin.com/in/jonas-bk)
 - [LinkedIn](www.linkedin.com/in/jonas-bk)
 - [Mastodon](https://infosec.exchange/@jonasbk)
 
-## Public work
+## Public stuff I have made
 
 **2020**
 - 2020/04/01 - Blogpost: [Setup RDP to DC from jumphost/PAW only — with IPSec](https://medium.com/@jonasblowknudsen/setup-rdp-to-dc-from-jumphost-paw-only-with-ipsec-825fccda5372)
