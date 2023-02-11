@@ -2,26 +2,15 @@
 
 ## Jobs, education, certifications
 
-See [LinkedIn](www.linkedin.com/in/jonas-bk)
+See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 
 ## Online profiles
 - [GitHub](https://github.com/JonasBK)
 - [Twitter](https://twitter.com/Jonas_B_K)
-- [LinkedIn](www.linkedin.com/in/jonas-bk)
+- [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 - [Mastodon](https://infosec.exchange/@jonasbk)
 
 ## Public stuff I have made
-
-**2020**
-- 2020/04/01 - Blogpost: [Setup RDP to DC from jumphost/PAW only — with IPSec](https://medium.com/@jonasblowknudsen/setup-rdp-to-dc-from-jumphost-paw-only-with-ipsec-825fccda5372)
-
-**2021**
-- 2021/04/16 - Tool: [ImproHound](https://github.com/improsec/ImproHound)
-- 2021/04/21 - Blogpost: [ImproHound - Identify AD tiering violations](https://improsec.com/tech-blog/improhound-identify-ad-tiering-violations)
-- 2021/06/04 - Video: [ImproHound demo](https://www.youtube.com/watch?v=zQ01tvTr6H0)
-- 2021/08/08 - Talk: [ImproHound demo - DEF CON Adversary Village presentation](https://www.youtube.com/watch?v=MTsPTI7OoqM)
-- 2021/08/16 - Talk: [ImproHound demo - DEF CON Adversary Village presentation (DEFCON channel)](https://www.youtube.com/watch?v=FRSVu0GBR3w)
-- 2021/10/05 - Workshop: [ImproHound OWASP Copenhagen workshop](https://www.youtube.com/channel/UCAcaUSfbCt8MxITzlfIKxKg/search?query=improhound)
 
 **2022**
 - 2022/03/28 - Blogpost: [SID filter as security boundary between domains? (Part 1) - Kerberos authentication explained](https://improsec.com/tech-blog/o83i79jgzk65bbwn1fwib1ela0rl2d)
@@ -38,5 +27,15 @@ See [LinkedIn](www.linkedin.com/in/jonas-bk)
 - 2022/09/15 - Webinar: [Practical approach to secure critical assets in Active Directory and Azure](https://www.quest.com/webcast-ondemand/practical-approach-to-secure-critical-assets-in-active-directory-and-azure/)
 - 2022/10/08 - Talk: [Active Directory trust attacks (BSides Copenhagen)](https://github.com/martinsohn/Active-Directory-trust-attacks/blob/main/presentations/BSidesCPH2022/Don't%20be%20trusted%20-%20Active%20Directory%20attacks%20-%20BSidesCPH2022.pdf)
 
+**2021**
+- 2021/04/16 - Tool: [ImproHound](https://github.com/improsec/ImproHound)
+- 2021/04/21 - Blogpost: [ImproHound - Identify AD tiering violations](https://improsec.com/tech-blog/improhound-identify-ad-tiering-violations)
+- 2021/06/04 - Video: [ImproHound demo](https://www.youtube.com/watch?v=zQ01tvTr6H0)
+- 2021/08/08 - Talk: [ImproHound demo - DEF CON Adversary Village presentation](https://www.youtube.com/watch?v=MTsPTI7OoqM)
+- 2021/08/16 - Talk: [ImproHound demo - DEF CON Adversary Village presentation (DEFCON channel)](https://www.youtube.com/watch?v=FRSVu0GBR3w)
+- 2021/10/05 - Workshop: [ImproHound OWASP Copenhagen workshop](https://www.youtube.com/channel/UCAcaUSfbCt8MxITzlfIKxKg/search?query=improhound)
+
+**2020**
+- 2020/04/01 - Blogpost: [Setup RDP to DC from jumphost/PAW only — with IPSec](https://medium.com/@jonasblowknudsen/setup-rdp-to-dc-from-jumphost-paw-only-with-ipsec-825fccda5372)
 
 
