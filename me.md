@@ -8,11 +8,18 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 - [GitHub](https://github.com/JonasBK)
 - [Twitter](https://twitter.com/Jonas_B_K)
 - [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
-- [Mastodon](https://infosec.exchange/@jonasbk)
+- [Medium](https://medium.com/@jonasblowknudsen)
 
 ## Public stuff I have made
 
 **2023**
+
+- 2023/09/12 - Webinar: [Defining the Undefined: What is Tier Zero Part II](https://specterops.zoom.us/webinar/register/WN_aROefO96TZqgOUM2bqVE7A)
+- 2023/09/12 - Blogpost: [What is Tier Zero — Part 2](https://posts.specterops.io/what-is-tier-zero-part-2-6e1d14fddcaf)
+- 2023/06/28 - Talk: [Hidden Pathways: Exploring the Anatomy of ACL-Based Active Directory Attacks and Building Strong Defenses (Troopers)](https://www.youtube.com/watch?v=4aQZUdpmQno)
+- 2023/06/22 - Webinar: [Defining the Undefined: What is Tier Zero](https://specterops.zoom.us/webinar/register/WN_hOwvqBQ3Q7-9dGS-urDj9w)
+- 2023/06/22 - Blogpost: [What is Tier Zero — Part 1](https://posts.specterops.io/what-is-tier-zero-part-1-e0da9b7cdfca)
+- 2023/05/23 - Blogpost: [FOSS BloodHound 4.3.1 release](https://medium.com/specter-ops-posts/foss-bloodhound-4-3-1-release-7606f87786f6)
 - 2023/01/10 - Blogpost: [Protect Active Directory users from password attacks with Fine-Grained Password Policy (FGPP)](https://www.linkedin.com/pulse/protect-active-directory-users-from-password-attacks-b%C3%BClow-knudsen/)
 
 **2022**
