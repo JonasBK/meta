@@ -1,4 +1,4 @@
-# Me myself, and I
+# Me, myself, and I
 
 ## Jobs, education, certifications
 
