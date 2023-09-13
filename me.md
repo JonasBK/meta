@@ -14,8 +14,8 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 
 **2023**
 
+- 2023/09/13 - Blogpost: [What is Tier Zero — Part 2](https://posts.specterops.io/what-is-tier-zero-part-2-6e1d14fddcaf)
 - 2023/09/12 - Webinar: [Defining the Undefined: What is Tier Zero Part II](https://specterops.zoom.us/webinar/register/WN_aROefO96TZqgOUM2bqVE7A)
-- 2023/09/12 - Blogpost: [What is Tier Zero — Part 2](https://posts.specterops.io/what-is-tier-zero-part-2-6e1d14fddcaf)
 - 2023/06/28 - Talk: [Hidden Pathways: Exploring the Anatomy of ACL-Based Active Directory Attacks and Building Strong Defenses (Troopers)](https://www.youtube.com/watch?v=4aQZUdpmQno)
 - 2023/06/22 - Webinar: [Defining the Undefined: What is Tier Zero](https://specterops.zoom.us/webinar/register/WN_hOwvqBQ3Q7-9dGS-urDj9w)
 - 2023/06/22 - Blogpost: [What is Tier Zero — Part 1](https://posts.specterops.io/what-is-tier-zero-part-1-e0da9b7cdfca)
