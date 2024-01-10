@@ -13,7 +13,7 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 ## Public stuff I have made
 
 **2023**
-- 2023/12/07 - Webinar: [ADCS Attack Paths in BloodHound](https://ghst.ly/47oBWNg)
+- 2023/12/07 - Webinar: [ADCS Attack Paths in BloodHound](https://www.youtube.com/watch?v=o4SSFv5Gfzs&l)
 - 2023/09/14 - Blogpost: [What is Tier Zero — Part 2](https://posts.specterops.io/what-is-tier-zero-part-2-6e1d14fddcaf)
 - 2023/09/12 - Webinar: [Defining the Undefined: What is Tier Zero Part II](https://www.youtube.com/watch?v=SAI3mXQgy_I)
 - 2023/06/28 - Talk: [Hidden Pathways: Exploring the Anatomy of ACL-Based Active Directory Attacks and Building Strong Defenses (Troopers)](https://www.youtube.com/watch?v=4aQZUdpmQno)
