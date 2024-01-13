@@ -1,5 +1,9 @@
 # Me, myself, and I
 
+## Bio
+
+Jonas is working as Product Architect at SpecterOps in the BloodHound Enterprise team. In his daily tasks, Jonas investigates attack vectors to determine how they can be implemented in BloodHound. Jonas enjoys writing ugly code to solve real and imaginary technical problems in the offensive and defensive security space.
+
 ## Jobs, education, certifications
 
 See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
