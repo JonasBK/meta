@@ -2,7 +2,7 @@
 
 ## Bio
 
-Jonas is working as Product Architect at SpecterOps in the BloodHound Enterprise team. In his daily tasks, Jonas investigates attack vectors to determine how they can be implemented in BloodHound. Jonas enjoys writing ugly code to solve real and imaginary technical problems in the offensive and defensive security space.
+Jonas is working as Product Architect at SpecterOps. In his daily tasks, Jonas investigates attack vectors to determine how they can be implemented in BloodHound. Jonas enjoys writing ugly code to solve real and imaginary technical problems in the offensive and defensive security space.
 
 ## Jobs, education, certifications
 
@@ -14,7 +14,10 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 - [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 - [Medium](https://medium.com/@jonasblowknudsen)
 
-## Public stuff I have made
+## Public stuff I have made (or co-authored)
+
+**2024**
+- 2024/01/24 - Blogpost: [ADCS Attack Paths in BloodHound — Part 1](https://medium.com/specter-ops-posts/adcs-attack-paths-in-bloodhound-part-1-799f3d3b03cf)
 
 **2023**
 - 2023/12/07 - Webinar: [ADCS Attack Paths in BloodHound](https://www.youtube.com/watch?v=o4SSFv5Gfzs&l)
