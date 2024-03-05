@@ -2,7 +2,7 @@
 
 ## Bio
 
-Jonas is working as Product Architect at SpecterOps. In his daily tasks, Jonas investigates attack vectors to determine how they can be implemented in BloodHound. Jonas enjoys writing ugly code to solve real and imaginary technical problems in the offensive and defensive security space.
+I am working as Product Architect at SpecterOps. I enjoy writing ugly code to solve real and imaginary technical problems in the offensive and defensive security space. In my daily tasks, I investigate attack vectors to determine how they can be implemented in BloodHound.
 
 ## Jobs, education, certifications
 
@@ -17,6 +17,7 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 ## Public stuff I have made (or co-authored)
 
 **2024**
+- 2024/02/28 - Blogpost: [ADCS ESC14 Abuse Technique](https://posts.specterops.io/adcs-esc14-abuse-technique-333a004dc2b9)
 - 2024/02/14 - Blogpost: [ADCS ESC13 Abuse Technique](https://posts.specterops.io/adcs-esc13-abuse-technique-fda4272fbd53)
 - 2024/01/24 - Blogpost: [ADCS Attack Paths in BloodHound — Part 1](https://medium.com/specter-ops-posts/adcs-attack-paths-in-bloodhound-part-1-799f3d3b03cf)
 
