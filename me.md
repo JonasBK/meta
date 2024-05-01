@@ -17,6 +17,7 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 ## Public stuff I have made (or co-authored)
 
 **2024**
+- 2024/05/01 - Blogpost: [ADCS Attack Paths in BloodHound — Part 2](https://posts.specterops.io/adcs-attack-paths-in-bloodhound-part-2-ac7f925d1547)
 - 2024/03/20 - Blogpost: [Pwned by the Mail Carrier](https://posts.specterops.io/pwned-by-the-mail-carrier-0750edfad43b)
 - 2024/02/28 - Blogpost: [ADCS ESC14 Abuse Technique](https://posts.specterops.io/adcs-esc14-abuse-technique-333a004dc2b9)
 - 2024/02/14 - Blogpost: [ADCS ESC13 Abuse Technique](https://posts.specterops.io/adcs-esc13-abuse-technique-fda4272fbd53)
