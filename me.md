@@ -4,6 +4,8 @@
 
 My name is Jonas, and I am working as a Product Architect at SpecterOps. I enjoy writing ugly code to solve real and imaginary technical problems in the offensive and defensive security space. In my daily tasks, I investigate attack vectors to determine how they can be implemented in [BloodHound](https://github.com/SpecterOps/BloodHound).
 
+I have a background as a security consultant working with customers to harden their AD and Windows infrastructure, and I have practical experience fixing and breaking customer environments with security measures such as AD tiering, Protected Users, IPSec, and disabling NTLM.
+
 ## Jobs, education, certifications
 
 See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
