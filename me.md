@@ -2,7 +2,7 @@
 
 ## Bio
 
-My name is Jonas, and I am working as Product Architect at SpecterOps. I enjoy writing ugly code to solve real and imaginary technical problems in the offensive and defensive security space. In my daily tasks, I investigate attack vectors to determine how they can be implemented in [BloodHound](https://github.com/SpecterOps/BloodHound).
+My name is Jonas, and I am working as a Product Architect at SpecterOps. I enjoy writing ugly code to solve real and imaginary technical problems in the offensive and defensive security space. In my daily tasks, I investigate attack vectors to determine how they can be implemented in [BloodHound](https://github.com/SpecterOps/BloodHound).
 
 ## Jobs, education, certifications
 
