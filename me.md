@@ -20,7 +20,7 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 
 **2024**
 - 2024/06/26 - Talk: [Analyzing and Executing ADCS Attack Paths with BloodHound (Troopers)](https://troopers.de/troopers24/talks/kzymd8/)
-- 2024/06/14 - Talk: [Analyzing and Executing ADCS Attack Paths with BloodHound (x33fcon)](https://www.x33fcon.com/#!s/JonasBulowKnudsenAndyRobbins.md)
+- 2024/06/14 - Talk: [Analyzing and Executing ADCS Attack Paths with BloodHound (x33fcon)](youtu.be/vc3J0wGl7g0)
 - 2024/05/01 - Blogpost: [ADCS Attack Paths in BloodHound — Part 2](https://posts.specterops.io/adcs-attack-paths-in-bloodhound-part-2-ac7f925d1547)
 - 2024/03/27 - Webinar: [Defining the Undefined: What is Tier Zero Part III](https://specterops.zoom.us/webinar/register/WN_0It_u8csQnmTHE_GYO7aYQ#/registration)
 - 2024/03/20 - Blogpost: [Pwned by the Mail Carrier](https://posts.specterops.io/pwned-by-the-mail-carrier-0750edfad43b)
