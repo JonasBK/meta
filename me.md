@@ -40,7 +40,7 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 - 2023/01/10 - Blogpost: [Protect Active Directory users from password attacks with Fine-Grained Password Policy (FGPP)](https://www.linkedin.com/pulse/protect-active-directory-users-from-password-attacks-b%C3%BClow-knudsen/)
 
 **2022**
-- 2022/10/08 - Talk: [Active Directory trust attacks (BSides Copenhagen)](https://github.com/martinsohn/Active-Directory-trust-attacks/blob/main/presentations/BSidesCPH2022/Don't%20be%20trusted%20-%20Active%20Directory%20attacks%20-%20BSidesCPH2022.pdf)
+- 2022/10/08 - Talk: [Active Directory trust attacks (BSides Copenhagen)](https://vimeo.com/787332389)
 - 2022/09/15 - Webinar: [Practical approach to secure critical assets in Active Directory and Azure](https://www.quest.com/webcast-ondemand/practical-approach-to-secure-critical-assets-in-active-directory-and-azure/)
 - 2022/08/14 - Talk: [Don’t be trusted: Active Directory trust attacks (DEF CON Adversary Village)](https://adversaryvillage.org/adversary-events/DEFCON-30/Jonas-Knudsen/)
 - 2022/06/23 - Webinar: [Securing On-Prem and Cloud Infrastructure with SpecterOps & Teal](https://www.youtube.com/watch?v=PRl5RIjb0bU)
