@@ -19,6 +19,7 @@ See [LinkedIn](https://www.linkedin.com/in/jonas-bk/)
 ## Public stuff I have made (or co-authored)
 
 **2024**
+- 2024/09/11 - Blogpost: [ADCS Attack Paths in BloodHound — Part 3](https://posts.specterops.io/adcs-attack-paths-in-bloodhound-part-3-33efb00856ac)
 - 2024/06/26 - Talk: [Analyzing and Executing ADCS Attack Paths with BloodHound (Troopers)](https://troopers.de/troopers24/talks/kzymd8/)
 - 2024/06/14 - Talk: [Analyzing and Executing ADCS Attack Paths with BloodHound (x33fcon)](https://youtu.be/vc3J0wGl7g0)
 - 2024/05/01 - Blogpost: [ADCS Attack Paths in BloodHound — Part 2](https://posts.specterops.io/adcs-attack-paths-in-bloodhound-part-2-ac7f925d1547)
